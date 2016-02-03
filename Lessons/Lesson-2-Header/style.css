@@ -1,0 +1,28 @@
+/* This is where your styling goes. */
+
+/* We will start with tuning the whole webpage. */
+html, body {
+    /* Here, we change the default font of the whole webpage. */
+    font-family: "Trebuchet MS";
+
+    /* If you want, you can even change the color of the text. */
+    color: darkgrey;
+
+    /* Now let's make sure the elements can touch the edges of the webpage. */
+    margin: 0;
+    margin-top: -10px;
+    padding: 0;
+}
+
+/* Here we will edit our header divider */
+div.header {
+    /* Lets align the text down the center of the header. */
+    text-align: center;
+    padding-top: 38px;
+
+    /* And make the background a pale grey. */
+    background-color: lightgrey;
+
+    /* Now lets change the height of the webpage. */
+    height: 100px;
+}
