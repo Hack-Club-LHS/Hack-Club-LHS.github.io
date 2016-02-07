@@ -1,2 +1,2 @@
-# Hack-Club-LHS
-Lessons for Hack Club: LHS
+# [Hack-Club-LHS.GitHub.io](hack-club-lhs.github.io)
+
