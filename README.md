@@ -1,2 +1,2 @@
-# [Hack-Club-LHS.GitHub.io](hack-club-lhs.github.io)
+# [Hack-Club-LHS.GitHub.io](https://hack-club-lhs.github.io/)
 
